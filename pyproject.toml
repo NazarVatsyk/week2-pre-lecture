@@ -1,0 +1,10 @@
+[project]
+name = "stat163-2026t1-week2-companion"
+version = "0.1.0"
+description = "STAT163 Week 2 companion — profiling a table you already know"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0",
+    "numpy",
+    "jupyterlab>=4.0",
+]
